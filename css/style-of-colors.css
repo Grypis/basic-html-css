@@ -85,3 +85,10 @@ h1 {
 .social-links a {
   color: tomato;
 }
+
+p {
+  font-family: "Tangerine", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+}
